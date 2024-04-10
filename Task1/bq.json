@@ -1,0 +1,16 @@
+{
+    "BigQuery Schema": [{
+      "name": "Year",
+      "type": "STRING"
+     },
+     {
+      "name": "Population_Growth_Rate",
+      "type": "STRING"
+     },
+     {
+      "name": "Growth_Rate",
+      "type": "STRING"
+     }
+    ]
+   }
+
